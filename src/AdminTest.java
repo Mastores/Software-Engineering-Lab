@@ -16,7 +16,7 @@ public class AdminTest {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-	}
+	} 
 	
 	@Test
 	public void testAddUser() {
